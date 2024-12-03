@@ -1,0 +1,15 @@
+{
+  "name": "todayist-md",
+  "version": "1.0.0",
+  "description": "A script to export Today's Todoist task as a markdown list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^3.0.3",
+    "dotenv": "^16.4.6"
+  }
+}
